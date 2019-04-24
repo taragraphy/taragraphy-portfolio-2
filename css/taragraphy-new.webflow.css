@@ -63,6 +63,9 @@ img {
 .body {
   height: 100%;
   font-family: 'Kern standard', sans-serif;
+  -webkit-font-feature-settings: "ss05";
+  -moz-font-feature-settings: "ss05";
+  font-feature-settings: "ss05";
   color: #000;
   font-size: 20px;
   line-height: 24px;
