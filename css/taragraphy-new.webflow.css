@@ -3168,7 +3168,7 @@ img {
 
 @font-face {
   font-family: 'Kern standard';
-  src: url('../fonts/KernRegular.css') format('opentype');
+  src: url('../fonts/KernRegular.otf') format('opentype');
   -webkit-font-feature-settings: "ss05";
   -moz-font-feature-settings: "ss05";
   font-feature-settings: "ss05";
