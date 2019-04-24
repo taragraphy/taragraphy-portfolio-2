@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon-small-fw-orange</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-81.000000, -9.000000)" fill="#FD4300">
+            <path d="M109,23 C109,30.7319865 102.731986,37 95,37 C87.2680135,37 81,30.7319865 81,23 C81,15.2680135 87.2680135,9 95,9 C102.731986,9 109,15.2680135 109,23 Z M86,24 L94,24 L94,32 L96,32 L96,31.1411067 C96,29.1272092 96.2784768,28.0472407 96.8013981,27.0694629 C97.3243194,26.0916851 98.0916851,25.3243194 99.0694629,24.8013981 C100.047241,24.2784768 101.127209,24 103.141107,24 L104,24 L104,22 L103.141107,22 C101.127209,22 100.047241,21.7215232 99.0694629,21.1986019 C98.0916851,20.6756806 97.3243194,19.9083149 96.8013981,18.9305371 C96.2784768,17.9527593 96,16.8727908 96,14.8588933 L96,14 L94,14 L94,22 L86,22 L86,24 Z" id="icon-small-fw-orange"></path>
+        </g>
+    </g>
+</svg>
